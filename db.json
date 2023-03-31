@@ -8,6 +8,7 @@
       "reviews": 112,
       "price": 119.99,
       "endpoint": "fishing",
+      "rating": 4,
       "category": "fishing-rod",
       "description": "Looking for a competitive edge? Look no further than Bass Pro Shops® Johnny Morris CarbonLite™ 2.0 Spinning Rod. They're built with Carbon Coil Technology™, an advanced construction process that creates a double-helix configuration of materials for structural reinforcement. Made with RT4 Graphite, developed for the avid tournament angler, rod blanks are light and also very sensitive, so anglers can use them with confidence—even with a win on the line. Other features include a line ID system that allows anglers to keep track of and to easily identify the line weight used on each rod and reel setup. Fuji® FaZlite guides further enhance weight reduction. The CarbonLite 2.0 Spinning Rod uses Winn® grips to deliver the ultimate in comfort, reducing stress in your hands and body leading to longer more accurate casts as the day goes on. A skeletonized air reel seat improves sensitivity by maximizing blank exposure. Extraordinary 10 Year Warranty."
     },
@@ -19,6 +20,7 @@
       "reviews": 81,
       "price": 149.99,
       "endpoint": "fishing",
+      "rating": 4,
       "category": "fishing-rod",
       "description": "Cabela's partnered with the top U.S. rodmaker to develop the St. Croix® Premier® Split-Grip Spinning Rod, bringing you the proven performance of the Premier Series in an even lighter and precisely balanced split-grip design. Crafted on St. Croix's premium SCII graphite blank, the rods in this series are known for their finely tuned actions and precise tapers. Finished with 2 coats of proprietary Flex-Coat cure, the Split-Grip Premier features black-frame Kigan Master Hand 3D guides with slim aluminum-oxide inserts and a Fuji DPS reel seat. Premium-grade cork handles provide a firm, comfortable grip in all weather. Manufacturer's 5-year warranty."
     },
@@ -30,6 +32,7 @@
       "reviews": 14,
       "price": 99.99,
       "endpoint": "fishing",
+      "rating": 4,
       "category": "fishing-rod",
       "description": "The Bass Pro Shops® Pro Qualifier® Casting Rod is crafted using our exclusive RT3™ graphite with Powerwall™ construction, a specialized process that creates a strong, structurally enhanced rod blank with reduced wall thickness. Reducing the amount of material in the blank minimizes overall rod weight while enhancing sensitivity, making long days of casting more productive and enjoyable. Fuji Concept 'O' guides with aluminum oxide inserts facilitate smooth line flow; our 2-piece minimalist reel seat improves sensitivity by maximizing blank exposure. The Pro Qualifier Casting Rod utilizes a split-grip handle design for outstanding balance and castability. Lightweight EVA grips with X-wrap enhance comfort in all conditions. 3-piece travel models come with a nylon rod sock and embroidered rod tube—a $19.99 value."
     },
@@ -41,6 +44,7 @@
       "reviews": 14,
       "price": 99.99,
       "endpoint": "fishing",
+      "rating": 4,
       "category": "fishing-rod",
       "description": "Brute strength and rock-solid engineering are the keys to success in hardcore offshore fishing, and the Offshore Angler™ Ocean Master® Boat Spinning rod is up to the task. The 12-25 lb. rod is a favorite with tournament sailfish anglers, and the 20-40 lb. is a great all-purpose rod for kings, stripers, and tarpon. The 30-50 lb. brute is a true heavyweight spinning rod, ready to handle big fish on 30-50 lb. braid. 1-piece graphite composite blanks, Fuji® heavy-frame aluminum oxide guides, graphite gimbal butt with EVA foam cap, Triangular EVA foam foregrip with X-wrap for enhanced comfort and control, and Slick Butt rear grips that slide in and out of rod holders with ease."
     },
@@ -52,6 +56,7 @@
       "reviews": 6,
       "price": 99.99,
       "endpoint": "fishing",
+      "rating": 4,
       "category": "fishing-rod",
       "description": "The Bass Pro Shops® Pro Qualifier® Spinning Rod is crafted using our exclusive RT3™ graphite with Powerwall™ construction, a specialized process that creates a strong, structurally enhanced rod blank with reduced wall thickness. Reducing the amount of material in the blank minimizes overall rod weight while enhancing sensitivity, making long days of casting more productive and enjoyable. Fuji Concept 'O' guides with aluminum oxide inserts facilitate smooth line flow; our 2-piece minimalist reel seat improves sensitivity by maximizing blank exposure. The Pro Qualifier Spinning Rod utilizes a split-grip handle design for outstanding balance and castability. Lightweight EVA grips with X-wrap enhance comfort in all conditions. 3-piece travel models come with a nylon rod sock and embroidered rod tube—a $19.99 value."
     },
@@ -63,6 +68,7 @@
       "reviews": 0,
       "price": 99.99,
       "endpoint": "fishing",
+      "rating": 4,
       "category": "fishing-rod",
       "description": "Our White River Fly Shop® Synch Fly Rod makes it easy for everyone to experience the unique thrills of casting and catching fish on the fly. It's simply the ideal introductory rod for anyone wanting to start out with a quality rod capable of converting beginners into lifelong fly fishers. The 24-/30-ton carbon blank meets our GI graphite technology standards for fly rods, with its forgiving moderate action that's perfect for those just learning to cast. This well-made, easy-fishing fly rod is built with durable, performance-grade components: a machined-aluminum reel seat, chromed snake guides, zirconium-ring stripping guides, stainless steel tip top, and a comfortable AA-grade cork handle. White River Fly Shop Synch fly rod includes a rod sock and rod tube."
     },
@@ -74,6 +80,7 @@
       "reviews": 0,
       "price": 99.99,
       "endpoint": "fishing",
+      "rating": 4,
       "category": "fishing-rod",
       "description": "Our Cabela's® Synch Fly Rod makes it easy for everyone to experience the unique thrills of casting and catching fish on the fly. It's simply the ideal introductory rod for anyone wanting to start out with a quality rod capable of converting beginners into lifelong fly fishers. The 24-/30-ton carbon blank meets our GI graphite technology standards for fly rods, with its forgiving moderate action that's perfect for those just learning to cast. This well-made, easy-fishing fly rod is built with durable, performance-grade components: a machined-aluminum reel seat, chromed snake guides, zirconium-ring stripping guides, stainless steel tip top, and a comfortable AA-grade cork handle. Includes a rod sock and rod tube."
     },
@@ -85,6 +92,7 @@
       "reviews": 11,
       "price": 119.99,
       "endpoint": "fishing",
+      "rating": 4,
       "category": "fishing-rod",
       "description": "Our Cabela's® Synch Fly Rod makes it easy for everyone to experience the unique thrills of casting and catching fish on the fly. It's simply the ideal introductory rod for anyone wanting to start out with a quality rod capable of converting beginners into lifelong fly fishers. The 24-/30-ton carbon blank meets our GI graphite technology standards for fly rods, with its forgiving moderate action that's perfect for those just learning to cast. This well-made, easy-fishing fly rod is built with durable, performance-grade components: a machined-aluminum reel seat, chromed snake guides, zirconium-ring stripping guides, stainless steel tip top, and a comfortable AA-grade cork handle. Includes a Cordura® nylon rod tube."
     },
@@ -96,6 +104,7 @@
       "reviews": 2,
       "price": 59.99,
       "endpoint": "fishing",
+      "rating": 4,
       "category": "fishing-rod",
       "description": "The Bass Pro Shops® Micro Lite™ Graphite Casting Rod is a quality rod for light line and lure applications. Micro Lite rods are built on RT2 Graphite blanks, (RT2 is the material and has nothing to do with construction) designed to reduce weight and enhance sensitivity. Stainless steel guides also keep weight down for a more balanced rod feel. Screw down reel seats keep reel tightly in place and do not loosen when traveling long distances on choppy water. The Bass Pro Shops Micro Lite Graphite Casting Rod has lightweight cork grips that provide a secure hold, even with wet, cold hands. These are great fishing rods for panfish, trout, and bass fishing with finesses techniques. Includes carry case and rod sock to protect your rod while hiking to your favorite spot."
     },
@@ -107,6 +116,7 @@
       "reviews": 41,
       "price": 59.99,
       "endpoint": "fishing",
+      "rating": 4,
       "category": "fishing-rod",
       "description": "The Bass Pro Shops® Micro Lite™ Graphite Float 'n' Fly Spinning Rod is a quality rod for light line and lure applications. Micro Lite rods are built on RT2 Graphite blanks, a unique fiber layering pattern designed to reduce weight and enhance sensitivity. Stainless steel guides also keep weight down for a more balanced rod feel. Graphite reel seats with cushioned stainless steel hoods keep reel tightly in place and do not loosen when traveling long distances on choppy water. The Bass Pro Shops Micro Lite Graphite Spinning Rod has lightweight cork and composite cork grips that provide a secure hold, even with wet, cold hands. These are great fishing rods for panfish, trout, and bass fishing with finesses techniques."
     },
@@ -118,6 +128,7 @@
       "reviews": 39,
       "price": 79.99,
       "endpoint": "fishing",
+      "rating": 3,
       "category": "fishing-rod",
       "description": "Finally, a pro-level rod worthy of a true panfish specialist. Our Bass Pro Shops® Panfish Elite Spinning Rod directly addresses the needs of trophy fishermen targeting bull bluegills, dinnerplate crappies, filleting-size perch, and so on. Every component is geared toward getting the best of these smaller fighters, starting with our RT3 Graphite rod blank. Extremely light and sensitive, it enables delicate presentations involving small baits and tight spaces, yet has the backbone to get a big gill out into open water. Super-lightweight Fuji FaZlite guides feature Corrosion Control frames that are 7X more resistant than stainless steel; FaZlite inserts provide optimum hardness for smooth line flow at all times. Every Panfish Elite Spinning Rod boasts a Fuji TVS skeletal reel seat to ensure plenty of direct finger-to-blank contact, flanked by a lightweight EVA split-grip with X-wrap exterior and a cork-rubber butt, for maximum comfort and control. If you're serious about chasing panfish, this is definitely the rod for you."
     },
@@ -129,6 +140,7 @@
       "reviews": 287,
       "price": 59.95,
       "endpoint": "fishing",
+      "rating": 3,
       "category": "fishing-rod",
       "description": "The Ugly Stik® Elite Spinning Rod features Ugly Tech™ Construction with 35% more graphite than the GX2 Ugly Stiks to give anglers a lighter weight, more sensitive rod, while retaining the strength and reliability Ugly Stik fishing rods are famous for. The Ugly Tuff™ 1-piece stainless steel guides are super slick so line flows though smoothly, while providing maximum durability and eliminating insert pop-outs. The Elite rod blank is finished off with Ugly Stik's signature Clear Tip® fiberglass tip that delivers extra strength right where you need it. Exposed blank style reel seats with cushioned stainless steel hoods hold reel in place securely, while increasing anglers' contact with the blank. The Ugly Stik Elite Spinning Rod uses premium cork grips to provide a comfortable and sure hold, even in wet conditions."
     },
@@ -140,6 +152,7 @@
       "reviews": 23,
       "price": 59.99,
       "endpoint": "fishing",
+      "rating": 3,
       "category": "fishing-rod",
       "description": "If you enjoy versatile, light tackle, then you're really going to love the Bass Pro Shops® Micro Lite™ Graphite Spin/Fly Pack Rod which lets anglers target fish with either a fly reel or spinning reel. The Micro Lite Graphite Spinning Rod is a quality rod for light line and lure applications. Micro Lite rods are built on RT2 Graphite blanks, a unique fiber layering pattern designed to reduce weight and enhance sensitivity. Stainless steel guides also keep weight down for a more balanced rod feel. Graphite reel seats with cushioned stainless steel hoods keep reel tightly in place and do not loosen when traveling long distances on choppy water. The Bass Pro Shops Micro Lite Graphite Spinning/Fly Rod has lightweight cork and composite cork grips that provide a secure hold, even with wet, cold hands. These are great fishing rods for panfish, trout, and bass fishing with finesses techniques. Rod sock and carry case included."
     },
@@ -151,6 +164,7 @@
       "reviews": 29,
       "price": 59.99,
       "endpoint": "fishing",
+      "rating": 3,
       "category": "fishing-rod",
       "description": "The Bass Pro Shops® Micro Lite™ Graphite Spinning Pack Rod is a quality rod for light line and lure applications. Micro Lite rods are built on RT2 Graphite blanks, a unique fiber layering pattern designed to reduce weight and enhance sensitivity. Stainless steel guides also keep weight down for a more balanced rod feel. Graphite reel seats with cushioned stainless steel hoods keep reel tightly in place and do not loosen when traveling long distances on choppy water. The Bass Pro Shops Micro Lite Graphite Spinning Rod has lightweight cork and composite cork grips that provide a secure hold, even with wet, cold hands. These are great fishing rods for panfish, trout, and bass fishing with finesses techniques. Includes carry case and rod sock."
     },
@@ -162,6 +176,7 @@
       "reviews": 5,
       "price": 79.99,
       "endpoint": "fishing",
+      "rating": 3,
       "category": "fishing-rod",
       "description": "The Bass Pro Shops® Fish Eagle Salmon/Steelhead Float Rod features a rugged RT3 graphite blank that yields phenomenal bending strength—exactly what you need for targeting trophy salmonids, with a carbon cross-wrap butt section that adds even greater strength to the rod core. Sea Guide stainless steel, tangle-free guide frames with aluminum-oxide inserts increase casting distance and overall durability. We've added graphite rings that allow you to custom-mount your reel for precise balance; premium cork handle with rubberized-cork trim provides for optimum comfort."
     },
@@ -173,6 +188,7 @@
       "reviews": 9,
       "price": 59.99,
       "endpoint": "fishing",
+      "rating": 3,
       "category": "fishing-rod",
       "description": "The Offshore Angler™ Gold Cup Inshore Split-Grip Spinning Rod is a superbly balanced rod that covers a wide range of inshore applications, from redfish, snook, and gator trout to stripers, blues, and calico bass. Built on our weight-reducing, sensitivity-enhancing RT2 Graphite blank, this rod series offers sound, reliable performance to anglers of all skill levels. Sea Guide aluminum oxide guides with stainless steel frames reduce friction for smooth line flow, and withstand saltwater environments. Our cushioned reel seat and split-grip handle with full cork grips provide a comfortable hold in any weather."
     },
@@ -184,6 +200,7 @@
       "reviews": 173,
       "price": 59.95,
       "endpoint": "fishing",
+      "rating": 3,
       "category": "fishing-rod",
       "description": "The Ugly Stik® Elite Casting Rod features Ugly Tech™ Construction with 35% more graphite than the GX2 Ugly Stiks to give anglers a lighter weight, more sensitive rod, while retaining the strength and reliability Ugly Stik fishing rods are famous for. The Ugly Tuff™ 1-piece stainless steel guides are super slick so line flows though smoothly, while providing maximum durability and eliminating insert pop-outs. The Elite rod blank is finished off with Ugly Stik's signature Clear Tip® fiberglass tip that delivers extra strength right where you need it. Exposed blank style reel seats with cushioned stainless steel hoods hold reel in place securely, while increasing anglers' contact with the blank. Premium cork grips provide a comfortable, and sure hold in wet conditions."
     },
@@ -195,6 +212,7 @@
       "reviews": 33,
       "price": 79.99,
       "endpoint": "fishing",
+      "rating": 3,
       "category": "fishing-rod",
       "description": "Clanging squarebills off shallow structure. Grinding deep divers into the thermocline. This, the Bass Pro Shops® Crankin' Stick Crankbait Casting Rod, is the ultimate rod for the crankbait specialist. Its blank is crafted with our exclusive Shok Flex Technology, a graphite and fiberglass hybridization technique that yields a rod with the sensitive feel of graphite, yet provides the shock absorption and brute power of glass. Sea Guide stainless steel guides with braid-friendly aluminum oxide rings keep line friction to a minimum, enabling long casts and smooth digging. Add in our 1-piece minimalist reel seat and comfortable, high-leverage EVA handle with X-wrap, and you have a rod that you can work hard all day."
     },
@@ -206,6 +224,7 @@
       "reviews": 20,
       "price": 129.99,
       "endpoint": "fishing",
+      "rating": 3,
       "category": "fishing-rod",
       "description": "Made especially for the panfish enthusiast, the St. Croix® Panfish Series Spinning Rod offers unmatched performance for handling light lines and baits. The reengineered SCII carbon fiber blank is not only lighter, but flexurally stronger than previous formulations, and topped off with 2 coats of ultra-durable Flex-Coat slow cure finish. The components match up to the precision actions; outfitting includes Sea Guide® Atlas performance guides with stainless steel frames and rings, PVD-coated tiptop, and Sea Guide NPS reel seat. Premium-grade cork handle. Manufacturer's 5-year warranty."
     },
@@ -217,6 +236,7 @@
       "reviews": 238,
       "price": 119.99,
       "endpoint": "fishing",
+      "rating": 3,
       "category": "fishing-rod",
       "description": "Looking for a competitive edge? Look no further than Bass Pro Shops® Johnny Morris CarbonLite™ 2.0 Casting Rod. They're built with Carbon Coil Technology™, an advanced construction process that creates a double-helix configuration of materials for structural reinforcement. Made with RT4 Graphite, developed for the avid tournament angler, rod blanks are light and also very sensitive, so anglers can use them with confidence—even with a win on the line. Other features include a line ID system that allows anglers to keep track of and to easily identify the line weight used on each rod and reel setup. Fuji® FaZlite guides further enhance weight reduction. The CarbonLite 2.0 Casting Rod uses Winn® grips to deliver the ultimate in comfort, reducing stress in your hands and body leading to longer more accurate casts as the day goes on. A skeletonized Air reel seat improves sensitivity by maximizing blank exposure. Extraordinary 10 Year Warranty."
     },
@@ -228,6 +248,7 @@
       "reviews": 10,
       "price": 99.99,
       "endpoint": "fishing",
+      "rating": 3,
       "category": "fishing-rod",
       "description": "The Bass Pro Shops Fish Eagle Travel Spinning Rod breaks down into 4 pieces so you'll always have a quality rod at the ready, wherever life takes you. It's built on a rugged RT3 Graphite sectioned blank that yields phenomenal bending strength—exactly what you need for targeting trophy fish, with a carbon cross-wrap butt section that adds even greater strength to the rod core. Sea Guide stainless steel, tangle-free guide frames with aluminum-oxide inserts increase casting distance and overall durability. We've added our 1-piece skeletonized reel seat for enhanced sensitivity; premium cork handle with rubberized-cork trim, EVA butt cap, and reverse-taper foregrip. Includes rod tube."
     },
@@ -239,6 +260,7 @@
       "reviews": 2,
       "price": 79.99,
       "endpoint": "fishing",
+      "rating": 3,
       "category": "fishing-rod",
       "description": "Slow down your fast-paced life and enjoy a casting rhythm straight from the golden age of fly fishing using our White River Fly Shop® CGR Fiberglass Fly Rod. There's nothing quite like a fiberglass fly rod when you need to make delicate presentations in close quarters. The CGR's deep-bending, full-flexing slow action delivers unsurpassed feel and protects light tippets when fighting large fish. High-quality finishing touches include high-grade cork handles with model-specific grips and spigot ferrules. All CGR fiberglass fly-rod models include a nylon rod case for protection."
     },
@@ -250,6 +272,7 @@
       "reviews": 0,
       "price": 119.99,
       "endpoint": "fishing",
+      "rating": 3,
       "category": "fishing-rod",
       "description": "Speed jigging in saltwater requires a rod that loads and unloads quickly. The Shimano® Talavera Type J Spinning Rod is specially designed for this, with just the right action to give you precise control as you flick your jig through the water column. So go ahead and pick up the tempo; whether you're aggressively jigging for a reaction bite from bottom feeders or pitching to open-water predators, the Talavera Type J rod can help you land your next big fish…and the next…etc."
     },
@@ -261,6 +284,7 @@
       "reviews": 1,
       "price": 89.99,
       "endpoint": "fishing",
+      "rating": 3,
       "category": "fishing-rod",
       "description": "A fixture in all freshwater and inshore venues, the Shimano® Clarus Spinning Rod continues to earn angler approval for targeting an array of species. Performance and affordability make the Clarus a great choice for everything from bass and walleye to seatrout and redfish. It's built on a high-modulus graphite blank with precise tip action, and topped with lightweight, low-friction titanium oxide guides for enhanced line flow when fishing with braid. This well-balanced split-grip rod features a custom reel seat and utilizes Shimano's G Alpha™ Grip Surface Technology, for better purchase and feel when fishing in the rain or on sweltering summer days."
     },
@@ -272,6 +296,7 @@
       "reviews": 0,
       "price": 69.99,
       "endpoint": "fishing",
+      "rating": 3,
       "category": "fishing-rod",
       "description": "Redesigned to meet all the needs of multi-species anglers, the Shimano® Convergence Spinning Rod brings a great mix of power and sensitivity to the table. This workhorse rod is built on a lightweight carbon blank capable of detecting every nick and nibble, yet it has the 'go anywhere, do anything' strength needed to handle every situation. Fitted with Fuji guides and reel seat, plus a full cork handle for comfort. 4-piece Travel model includes a protective tube."
     },
@@ -283,6 +308,7 @@
       "reviews": 0,
       "price": 189.99,
       "endpoint": "fishing",
+      "rating": 3,
       "category": "fishing-rod",
       "description": "Made to cover inshore waters from the Atlantic to the Gulf, the Shimano® Teramar® Southeast Casting Rod offers dynamic versatility for everything from popping corks to live bait and large artificials. This B-series line is built tough and sensitive, with rugged TC4 blank construction for a superior strength-to-weight ratio with outstanding durability. Optimized with a quality Seaguide Zirconia guide train and traditional cork grips, the Teramar SE provides ideal balance and fighting capability for tackling everything from trout and redfish to cobia and tarpon."
     },
@@ -294,6 +320,7 @@
       "reviews": 0,
       "price": 189.99,
       "endpoint": "fishing",
+      "rating": 3,
       "category": "fishing-rod",
       "description": "Though ideal for jigging, you'll find the Shimano Trevala B Casting Rod well-adapted to a range of offshore techniques using live bait or lures. This redesigned classic continues the legacy of an iconic crossover rod series that's built for maximum versatility. Its rugged TC4 blank is lighter, better balanced, and more durable than ever, and comes fitted with a precision Seaguide aluminum-oxide guideset and tough EVA full handle grips. All models feature a rubber gimbal at the butt to hold secure in your rod holders on the way to the fishing grounds, and to allow use of a fighting belt for battling the heavyweights. More than ever, the bulletproof Trevala B continues to raise the bar for versatile performanc"
     },
@@ -305,6 +332,7 @@
       "reviews": 0,
       "price": 119.99,
       "endpoint": "fishing",
+      "rating": 3,
       "category": "fishing-rod",
       "description": "Speed jigging in saltwater requires a rod that loads and unloads quickly. The Shimano® Talavera Type J Casting Rod is specially designed for this, with just the right action to give you precise control as you flick your jig through the water column. So go ahead and pick up the tempo; whether you're aggressively jigging for a reaction bite from bottom feeders or pitching to open-water predators, the Talavera Type J rod can help you land your next big fish and the next…etc."
     },
@@ -316,6 +344,7 @@
       "reviews": 0,
       "price": 89.99,
       "endpoint": "fishing",
+      "rating": 3,
       "category": "fishing-rod",
       "description": "A fixture in all freshwater and inshore venues, the Shimano® Clarus Casting Rod continues to earn angler approval for targeting an array of species. Performance and affordability make the Clarus a great choice for everything from bass and walleye to seatrout and redfish. It's built on a high-modulus graphite blank with precise tip action, and topped with lightweight, low-friction titanium oxide guides for enhanced line flow when fishing with braid. This well-balanced split-grip rod features a custom reel seat and utilizes Shimano's G Alpha™ Grip Surface Technology, for better purchase and feel when fishing in the rain or on sweltering summer days."
     },
@@ -327,6 +356,7 @@
       "reviews": 0,
       "price": 69.99,
       "endpoint": "fishing",
+      "rating": 3,
       "category": "fishing-rod",
       "description": "Redesigned to meet all the needs of multi-species anglers, the Shimano® Convergence Casting Rod brings a great mix of power and sensitivity to the table. This workhorse rod is built on a lightweight carbon blank capable of detecting every nick and nibble, yet it has the 'go anywhere, do anything' strength needed to handle every situation. Fitted with Fuji guides and reel seat, plus a full cork handle for comfort. 4-piece Travel models include a protective tube."
     },
@@ -338,6 +368,7 @@
       "reviews": 0,
       "price": 189.99,
       "endpoint": "fishing",
+      "rating": 3.5,
       "category": "fishing-rod",
       "description": "Though ideal for jigging, you'll find the Shimano® Trevala® B Spinning Rod well-adapted to a range of offshore techniques using live bait or lures. This redesigned classic continues the legacy of an iconic crossover rod series that's built for maximum versatility. Its rugged TC4 blank is lighter, better balanced, and more durable than ever, and comes fitted with a precision Seaguide aluminum-oxide guideset and tough EVA full handle grips. All models feature a rubber gimbal at the butt to hold secure in your rod holders on the way to the fishing grounds, and to allow use of a fighting belt for battling the heavyweights. More than ever, the bulletproof Trevala B continues to raise the bar for versatile performance"
     },
@@ -349,6 +380,7 @@
       "reviews": 7,
       "price": 69.95,
       "endpoint": "fishing",
+      "rating": 3.5,
       "category": "fishing-rod",
       "description": "Hunt relentlessly for big fish, in all conditions. The Ugly Stik® Bigwater™ Conventional Rod gives you the advantage, with unmatched toughness, durability, and lifting power. Targeted to big game, it features Ugly Tech™ construction, a rugged graphite-fiberglass blend that maximizes both strength and sensitivity; the added resilience of the Ugly Stik Clear Tip®; and comfortable EVA grips. Equipped with popout-proof Ugly Tuff™ 1-piece stainless steel guides; quality Fuji reel seat; hard rubber gimbal or aluminum gimbal with cover. Mfrs. 7-year warranty."
     },
@@ -360,6 +392,7 @@
       "reviews": 163,
       "price": 269.99,
       "endpoint": "fishing",
+      "rating": 3.5,
       "category": "fishing-reel",
       "description": "This is the reel the world has been waiting for! The Shimano Curado DC Baitcast Reel is the smart-casting, computerized version of one of the world's most popular high-performance baitcasters. It's equipped with Shimano's unique Digital Control braking technology, a microcomputer-driven cast control system that monitors the reel's spool speed 1,000 times per second and automatically applies the correct brake pressure to prevent backlash and maximize casting distance. What that means to you: regardless of your skill level, the Curado DC makes casting virtually effortless, more accurate, and trouble-free. Meanwhile, this is the Curado serious anglers swear by, with a top-quality feature list that includes a rigid, highly durable Hagane body crafted of lightweight CI4+ carbon alloy; X-Ship pinion support bearing with MicroModule gearing; 6+1 bearing system with S-ARB shielded stainless steel anti-rust ball bearings; the advanced I-DC4 digital control brake system; and smooth, dependable Cross Carbon Drag."
     },
@@ -371,6 +404,7 @@
       "reviews": 172,
       "price": 129.99,
       "endpoint": "fishing",
+      "rating": 3.5,
       "category": "fishing-reel",
       "description": "Welcome to the next level in carbon-rich baitcaster performance! We've tweaked our Bass Pro Shops® Johnny Morris CarbonLite 2.0 Baitcast Reel to make it not only stronger and smoother, but also significantly faster—as in, up to 8.3:1 fast! With the 2.0, you can really get aggressive with your retrieves, and you can also steer a hawg out of a thicket with less trouble. Take a tour of the CarbonLite 2.0, and we think you'll like what you see. The rigid 1-piece aluminum frame connects super-strong carbon fiber side covers, a flex-inhibiting combination that keeps the internals in alignment, no matter how heavy the load. The double-anodized machined-aluminum spool is V-grooved and ported, with a friction-eliminating titanium nitride-coated line guide in place to assure perfect line flow. Strong and durable, the aluminum crankshaft and brass main gear complement a planetary drivetrain that delivers silky-smooth operation, aided by a premium 10-bearing system that includes double-shielded stainless steel ball bearings and Powerlock™ instant anti-reverse®. Our time-tested Dual Braking System™ combines both centrifugal and magnetic braking for truly outstanding performance on every cast. The powerful 6-disc carbon fiber drag will slow even a monster bass. And the smooth-turning carbon fiber recurve handle enhances your comfort with premium EVA grips."
     },
@@ -382,6 +416,7 @@
       "reviews": 15,
       "price": 99.99,
       "endpoint": "fishing",
+      "rating": 3.5,
       "category": "fishing-reel",
       "description": "Great news! We put our popular Bass Pro Shops® Pro Qualifier® Baitcast Reel on a bit of a diet, and it has responded extremely well. The PQ is light and slim, so it balances perfectly on a premium bass rod and is a joy to palm, yet all aspects of its performance—the features serious bassers love most about this reel—remain intact. As always, we build the Pro Qualifier to fit the way tournament anglers fish. From its 1-piece machined-aluminum frame and double-anodized, machined-aluminum drilled spool, to its Recurve handle and drag star, the design is sleek, light and functional. And every feature is geared for performance, including the quality 7-bearing system with Powerlock™ instant anti-reverse; our Dual Braking System™, with click-adjustable magnetic and 6-pin centrifugal cast control systems working in concert; the hard titanium-coated line guide. You'll like the pin-release side plate for quick brake adjustments on the fly, the satisfying feel of the Soft Touch thumb bar, the built-in lube port for those pre-tourney touch-ups. When you're ready to reload your best bass rods, odds are that the lighter, more compact Bass Pro Shops Pro Qualifier will offer the best performance value available. By far."
     },
@@ -393,6 +428,7 @@
       "reviews": 149,
       "price": 99.95,
       "endpoint": "fishing",
+      "rating": 3.5,
       "category": "fishing-reel",
       "description": "If you think it's tough to find a high-performance baitcaster that fits a C-note budget these days, think again. The Lew's® Speed Spool® LFS Baitcast Reel is equipped to fit any tournament bass angler's criteria, at a price any weekend angler can justify. Weighing just 7.1 oz., this low-profile reel brings all the benefits of Lew's 'Lighter, Faster, Stronger' platform. The 1-piece aluminum frame design keeps internal components aligned for smooth operation and improved performance. A removable graphite palming sideplate allows easy access to the 34mm machine forged, anodized aluminum drilled spool; the zirconia line guide promotes smooth distance casting. Precision-cut solid brass Speed Gears and P2 bearing-supported pinion gear technology provide superior gear mesh and system stability, for super smooth, quiet retrieves and excellent durability. The 9+1 bearing system includes 9 double-shielded stainless steel bearings plus Zero-Reverse 1-way clutch bearing; the externally adjustable MCS magnetic brake enables you to quickly adapt to changing conditions. Rugged Rulon drag with up to 15 lbs. of drag power; 95mm bowed aluminum handle with custom Soft Touch paddles; audible-click bowed drag star; external lube port. 8.3:1, 7.5:1, and 6.8:1 retrieve models feature a standard drilled spool; 5.6:1 model has a high-capacity dimpled spool."
     },
@@ -404,6 +440,7 @@
       "reviews": 1,
       "price": 279.99,
       "endpoint": "fishing",
+      "rating": 3.5,
       "category": "fishing-reel",
       "description": "The low-profile Shimano® Curado® DC 200 Baitcast Reel is easy to palm, and with up to 40% more line capacity, it's perfect for anglers using heavy line, casting big lures, or looking to launch long casts. Equipped with Digital Control braking, this Shimano fishing reel uses an I-DC4 unit with 4 settings to control how much braking is applied to drastically reduce backlash and maximize casting distance. The HAGANE® metal body and CI4+ construction deliver incredible strength in a lightweight, compact package. MicroModule Gear system uses small teeth to produce a super-smooth retrieve that's amplified by the S3D spool, while X-Ship gear support keeps everything aligned for exceptional durability under load. The Super Free Spool eliminates friction while casting, keeping the pinion gear and spool shaft in alignment for friction-free casts. S A-RB bearings have shields that block salt, sand, and debris, keeping your Shimano baitcast reel running smooth. The Cross Carbon drag delivers a wide range of settings with smooth, reliable performance across the entire range. Enjoy smart technology in your fishing setup with the Shimano Curado DC 200 Baitcast Reel."
     },
@@ -415,6 +452,7 @@
       "reviews": 107,
       "price": 199.99,
       "endpoint": "fishing",
+      "rating": 3.5,
       "category": "fishing-reel",
       "description": "Specially equipped with Digital Control braking, the Shimano® SLX DC Baitcast Reel brings Shimano's most advanced casting system ever into the realm of affordability. The brand's legendary quality is unmistakable in the low-profile SLX DC, starting with its palm-friendly, all-metal Hagane® body; extremely tight and rigid, this design prevents body flex, ensuring smooth, balanced winding with exceptional cranking power. Altogether, it's the perfect framework for the unmatched precision of Shimano's extraordinary DC braking technology, a computerized cast control system that monitors the reel's spool speed 1,000 times per second and automatically applies the correct brake pressure to prevent backlash and maximize casting distance. On the retrieve, you'll find the 4+1 bearing system to be lean and efficient, while the sturdy drag system provides up to 11-12 lbs. of maximum drag – more than enough to turn any bass headed for cover. Extended handle for extra cranking power."
     },
@@ -426,6 +464,7 @@
       "reviews": 56,
       "price": 149.95,
       "endpoint": "fishing",
+      "rating": 3.5,
       "category": "fishing-reel",
       "description": "Made to The Master's specifications, Lew's KVD Baitcast Reel leverages Kevin VanDam's expertise to give you a solid, sweet-casting reel that emphasizes problem-free performance in tournament situations. The advanced feature set includes: 1-piece aluminum frame with removable graphite sideplates; upsized 34mm machined aluminum spool; high-strength solid brass Speed Gears®; P2™ Super Pinion™ bearing supported pinion gear; Multi-Setting Brake (MSB) dual cast control system with both external-dial magnetic brake and internal 4-shoe centrifugal brake for incredibly precise fine tuning; premium 9+1 bearing system with double-shielded stainless steel ball bearings and Zero Reverse®; carbon fiber drag; bowed lightweight 95mm aluminum reel handle with EVA paddles; Speed Keeper® hook keeper; external lube port."
     },
@@ -437,6 +476,7 @@
       "reviews": 4,
       "price": 119.95,
       "endpoint": "fishing",
+      "rating": 3.5,
       "category": "fishing-reel",
       "description": "Representing its 5th generation of excellence, the Abu Garcia® Revo5 X Baitcast Reel has been redesigned for optimal precision, power, and performance. This updated version is built on Abu's new asymmetrical body design to optimize, weight, balance, and ergonomics. The Revo5 X is as tough and smooth as ever, with its C6 Carbon frame and sideplate, rugged Duragear Gen II gearing, and MagTrax™ magnetic brake system. Its 7+1 system incorporates stainless steel ball bearings plus instant anti-reverse, while the supersmooth Carbon Matrix™ drag system provides up to 20 lbs. of head-turning power. 90mm bowed aluminum handle with co-molded knobs for crankin' leverage. For the angler looking for a strong, sweet-casting baitcaster with magnetic braking, the Revo5 X offers a great value."
     },
@@ -448,6 +488,7 @@
       "reviews": 15,
       "price": 99.99,
       "endpoint": "fishing",
+      "rating": 3.5,
       "category": "fishing-reel",
       "description": "Our recrafted Offshore Angler® Inshore Extreme Baitcast Reel is exceptionally light and compact, so it balances perfectly on a premium inshore rod and is a joy to palm, yet all aspects of its performance—the features serious inshore fisherman love most about this reel—remain intact. As always, we build the Inshore Extreme to fit the way tournament anglers fish. From its 1-piece machined-aluminum frame and double-anodized, machined-aluminum drilled spool, to its Recurve handle and drag star, this low-profile baitcaster's design is sleek, light and functional. The frame has 3 built-in drain holes, so your washdown water can drain and dry following the rinse. All additional features are geared for performance, including the quality 7-bearing system with 3 corrosion-resistant bearings in strategic locations, plus Powerlock™ instant anti-reverse; our Dual Braking System™, with click-adjustable magnetic and 6-pin centrifugal cast control systems working in concert; the hard titanium-coated line guide. You'll especially like the pin-release sideplate that enables you to make lightning-quick brake adjustments on the fly, the satisfying feel of the Soft Touch thumb bar, and the built-in lube port for those pre-outing touch-ups. When you're ready to reload your best rods, odds are that the lightweight, incredibly compact Offshore Angler Inshore Extreme will more than fill the bill for you."
     },
@@ -459,6 +500,7 @@
       "reviews": 9,
       "price": 179.99,
       "endpoint": "fishing",
+      "rating": 3.5,
       "category": "fishing-reel",
       "description": "Fish with professional precision. Lew's® Tournament XP Baitcast Reel is built to maximize your efficiency on the water, starting with its lightweight foundation: a 1-piece aluminum frame and double-anodized, machined aluminum U-spool. The premium 9+1 bearing system features all-stainless steel double-shielded ball bearings and Zero-Reverse one-way clutch bearing; the Multi-Setting Braking system utilizes both externally adjustable magnetic and internally adjustable centrifugal braking to reduce backlashes and make every cast count. Durable carbon fiber drag with up to 20 lbs. of run-stopping drag power; 95mm bowed anodized aluminum handle with Combat Grip® paddle knobs; audible-click drag star and cast control knob; patented Speed Dial® line indicator and Speed Keeper® hook keeper; external lube port for maintenance on the fly."
     },
@@ -470,6 +512,7 @@
       "reviews": 28,
       "price": 149.99,
       "endpoint": "fishing",
+      "rating": 3.5,
       "category": "fishing-reel",
       "description": "More compact and palmable than ever, the lightweight Daiwa® Tatula CT Baitcast Reel offers superior castability and control for a wide range of bassin' techniques. This smooth-running reel is built on a rugged, 1-piece aluminum frame that firmly anchors its massive gearing. It fits easily in the hand and, with its Air Rotation spool and extra-wide T-Wing levelwind, delivers unhindered line flow for the absolute maximum in casting distance and accuracy. Features a quality 8-bearing (7+1) system with instant anti-reverse; Daiwa's patented, externally adjustable Magforce® cast control; carbon-rich Ultimate Tournament Drag (UTD); 90mm Swept Handle with weight-reducing cutouts, and comfortable Soft Touch handle knobs."
     },
@@ -481,6 +524,7 @@
       "reviews": 12,
       "price": 209.99,
       "endpoint": "fishing",
+      "rating": 3.5,
       "category": "fishing-reel",
       "description": "The lightest weight Curado® to date, the Shimano® Curado MGL Baitcast Reel offers tremendous versatility. Engineered to cover a variety of techniques, this advanced reel delivers outstanding casting distance and accuracy, yet is solidly built to handle giants without missing a beat. The rigid aluminum HAGANE® Body pairs with the MagnumLite (MGL) Spool to deliver superb action on every cast; Shimano precision gearing technologies such as X-Ship, MicroModule Gearing, and SilentTune® combine to ensure near-effortless winding, whether executing a retrieve or battling a trophy. Durable Cross Carbon Drag offers ultimate smoothness across its entire range. With its quality 6+1 ball-bearing system and sleek, low-profile palmability, the Curado MGL is tournament-ready and built to win."
     },
@@ -492,6 +536,7 @@
       "reviews": 35,
       "price": 199.95,
       "endpoint": "fishing",
+      "rating": 3.5,
       "category": "fishing-reel",
       "description": "When bass are tucked under overhead cover, it's time to break out your Team Lew's® Pro SP Baitcast Reel. Specifically designed for skipping and pitching, it combines a purpose-driven spool-and-brake system that makes getting your lure into the tightest, toughest spots on the lake a smooth, backlash-free operation. This Super Low Profile casting reel is built on a 1-piece aluminum frame with graphite sideplates; the shallow, 32mm Duralumin spool is equipped with a Knot Slot to ensure even line lay. The QuietCast® Adjustable Centrifugal Braking system offers externally adjustable, 6-pin 27-position braking, with a special skipping zone shown in orange showing the optimum settings. Also: aircraft aluminum Speed Gears®; P2™ Super Pinion™ bearing supported pinion gear; Premium 8+1 bearing system with double-shielded stainless steel ball bearings and Zero Reverse®; carbon fiber drag; bowed lightweight 95mm aluminum reel handle with EVA knobs; Speed Keeper® hook keeper; external lube port"
     },
@@ -503,6 +548,7 @@
       "reviews": 21,
       "price": 79.99,
       "endpoint": "fishing",
+      "rating": 3.5,
       "category": "fishing-reel",
       "description": "Need a super-smooth, pro-style baitcaster that doesn't cost an arm and a leg? Here's your 'formula' for success: our surprisingly affordable Bass Pro Shops® Formula Baitcast Reel! It works, because all the features you expect in a performance baitcaster are here (except the price). Full graphite frame and side-covers, for dependable strength and durability. Lightweight, anodized aluminum spool for easy casting and retrieving. Quality 8-bearing system that includes Powerlock™ instant anti-reverse, ensuring smooth hitch-free retrieves. Our exclusive Dual Braking System with external magnetic and internal 4-pin centrifugal cast control – a high-end feature that enables exceptional casting distance and accuracy. Smooth, consistent drag operation, to the tune of a full 10 lbs. of drag power. With all of that, plus its Recurve handle, Recurve star drag, and comfortable PVC handle knobs, our Formula baitcaster is a true force to be reckoned with out there!"
     },
@@ -514,6 +560,7 @@
       "reviews": 1,
       "price": 229.95,
       "endpoint": "fishing",
+      "rating": 3.5,
       "category": "fishing-reel",
       "description": "Representing its 5th generation of excellence, the popular Abu Garcia® Revo®5 STX Baitcast Reel has been redesigned for optimal precision, power, and performance. This updated version is built on Abu's new asymmetrical body design to optimize its weight, balance, and ergonomics, and also features the EXD (Extreme Distance) Concept Design which optimizes the path in which line leaves the spool and flows through the line guide, leading to effortless casting. From there, the Revo5 STX offers all the comfort, versatility, precision, and power top anglers crave, and then some. The impressive feature list includes the super-lightweight X2-Cräftic™ aluminum alloy frame and sideplate, rugged Duragear™ Gen II gearing with D2 Gear design, and the advanced IVCB-6 centrifugal brake system that provides almost limitless control. The 10+1 stainless steel ball bearing system ensures long-lasting, smooth operation. The powerful, yet unbelievably smooth and consistent Power Stack Carbon Matrix™ drag system provides an impressive 25 lbs. of run-stopping power. Extended 95mm bowed aluminum handle with oversized knobs for crankin' leverage. Whether you're casting crankbaits to the horizon or slipping finesse jigs into tiny pockets, the compact, palmable Revo5 STX offers superior performance through a wide range of bassin' applications."
     },
@@ -525,6 +572,7 @@
       "reviews": 0,
       "price": 259.99,
       "endpoint": "fishing",
+      "rating": 3.5,
       "category": "fishing-reel",
       "description": "The Calcutta B features quality A-RB® Anti-Rust Bearings to ensure years of smooth, trouble-free performance, higher gear ratios, and easy access to the Variable Brake System (VBS™) for easy cast control. As before, the forged 1-piece aluminum frame with aluminum spool and sideplates makes for a strong, durable, and tight reel, and Septon® handle grips provide maximum comfort. The GT model features an incredibly sweet 8-bearing system, while all others have a 4-bearing system (3 ball + 1 roller bearing); SV models are non-levelwind versions equipped with oversized Power Paddles for total cranking power; 400 and 700 Series reels have clickers."
     },
@@ -536,6 +584,7 @@
       "reviews": 21,
       "price": 99.99,
       "endpoint": "fishing",
+      "rating": 3.5,
       "category": "fishing-reel",
       "description": "The Calcutta B features quality A-RB® Anti-Rust Bearings to ensure years of smooth, trouble-free performance, higher gear ratios, and easy access to the Variable Brake System (VBS™) for easy cast control. As before, the forged 1-piece aluminum frame with aluminum spool and sideplates makes for a strong, durable, and tight reel, and Septon® handle grips provide maximum comfort. The GT model features an incredibly sweet 8-bearing system, while all others have a 4-bearing system (3 ball + 1 roller bearing); SV models are non-levelwind versions equipped with oversized Power Paddles for total cranking power; 400 and 700 Series reels have clickers."
     },
@@ -547,6 +596,7 @@
       "reviews": 19,
       "price": 219.99,
       "endpoint": "fishing",
+      "rating": 3.5,
       "category": "fishing-reel",
       "description": "Built to handle just about anything, the Daiwa® Lexa WN Casting Reel provides the tacky, durable comfort and leverage of authentic Winn® grips, plus all the stopping power you'll need to outlast the bruisers. The tough aluminum frame and gear-side sideplates combine with strategic cutouts on the swept handle to keep the weight down without sacrificing strength. Equipped for maximum comfort and control, with oversized Winn custom handle grips, Infinite Anti-Reverse with Dual Stopper, and Daiwa's high-powered Ultimate Tournament Carbon Drag."
     },
@@ -558,6 +608,7 @@
       "reviews": 131,
       "price": 6.99,
       "endpoint": "fishing",
+      "rating": 4.5,
       "category": "fishing-bait",
       "description": "The BOOYAH® Pad Crasher™ and Pad Crasher Jr are topwater hollow-body frogs. Each sports a bass boat-style belly that catches water for the easiest ''frog-walking'' action you've ever seen in open water. The Pad Crasher's flow-thru design drains the lure with every twitch, preventing it from taking on water, catching weeds, or sinking. A rugged double hook and interior weighting system assure positive hookups. Work effectively in the slop, and walk back and forth like a Spook in open water."
     },
@@ -569,6 +620,7 @@
       "reviews": 143,
       "price": 3.79,
       "endpoint": "fishing",
+      "rating": 4.5,
       "category": "fishing-bait",
       "description": "Popular among tournament crappie anglers, the Bobby Garland® Baby Shad is well known for consistently turning slow slab days into memorable ones. This legendary soft plastic bait is quite durable, and features a plump, deep-bellied body profile that tapers to a flapping, spear-shaped tail; expect loads of enticing, dancing action."
     },
@@ -580,6 +632,7 @@
       "reviews": 58,
       "price": 3.79,
       "endpoint": "fishing",
+      "rating": 4.5,
       "category": "fishing-bait",
       "description": "Brighten your slab slaying prospects with the Bobby Garland Mo' Glo Baby Shad crappie bait that features a super-glow formulation for irresistible appeal. Ideal for low light conditions, stained water, or when a slow bite dictates a different look, the Mo' Glo Baby Shad offers plump-profiled bodies tapering down to an enticing, high-action spear-shaped tail that doesn't stop dancing. The Mo' Glo Baby Shad's glow combines with its non-stop movement to turn slow-catching days into memorable ones. Length: 2ft. 18 pack."
     },
@@ -591,6 +644,7 @@
       "reviews": 50,
       "price": 3.79,
       "endpoint": "fishing",
+      "rating": 4.5,
       "category": "fishing-bait",
       "description": "Borrowing from the shape and size of its Baby Shad sibling, the Bobby Garland Baby Shad Swim'R incorporates additional features for a totally different action and allure. The Swim'R sports a jointed body and a unique swim tail that mimics the effortless movement of a real baitfish. It also has a scent channel in its belly that can be used for holding optional fish-attractant scents, should you choose to use them. Made in USA."
     },
@@ -602,6 +656,7 @@
       "reviews": 3,
       "price": 6.99,
       "endpoint": "fishing",
+      "rating": 4.5,
       "category": "fishing-bait",
       "description": "The BOOYAH® Poppin' Pad Crasher™ Jr. was created for those times and conditions that require additional surface disturbance. Everyone knows that on windy days and in thick slop, fish can be finicky and reluctant to commit. Or perhaps they've seen numerous other frogs that day. That's when the unique action of the Poppin' Pad Crasher truly shines. It's terrific for fishing the slop, but with a cupped mouth, it doubles as a popper/chugger in open water."
     },
@@ -613,6 +668,7 @@
       "reviews": 387,
       "price": 4.99,
       "endpoint": "fishing",
+      "rating": 4.5,
       "category": "fishing-bait",
       "description": "An all-time favorite due to its uncanny effectiveness, the Blue Fox® Classic Vibrax® Spinner delivers attention-getting flash and low-frequency vibration, a combination proven to produce savage strikes from all game fish species. Its unique inline blade is angled at 30°, virtually eliminating line twist and allowing you to run the lure anywhere from just below the surface to 4-5' down on a steady retrieve. A must-have in every tackle box! Equipped with a sharp treble hook; 1/4-oz. and larger sizes also include a Siwash hook for extra strength and holding power."
     },
@@ -624,6 +680,7 @@
       "reviews": 393,
       "price": 7.99,
       "endpoint": "fishing",
+      "rating": 4.5,
       "category": "fishing-bait",
       "description": "The Rapala® DT® Series will dive faster and stay in the targeted strike zone longer than any other crankbait. Only the DT Series lures are made from the top 7% of select balsa wood; its perfect consistency combines with carefully placed internal weights, a precisely tapered body, and a thin tail to create the ultimate crankbait action. Its ultra-thin polycarbonate lip digs down quickly to the desired depth and creates a strike-provoking side-to-side action, intensifying the noise produced by the internal rattle chamber. Designed to fly like an arrow, the Rapala DT casts exceptionally long, keeping the bait in the strike zone virtually all the way in."
     },
@@ -635,6 +692,7 @@
       "reviews": 186,
       "price": 7.99,
       "endpoint": "fishing",
+      "rating": 4.5,
       "category": "fishing-bait",
       "description": "Balsa wood construction under incredible finishes makes the Rapala® Shad Rap® the hard bait big fish find irresistible. Built tough with hard-diving lips and sharp treble hooks, these legendary lures have the power to survive even the toughest fights. Cast or troll."
     },
@@ -646,6 +704,7 @@
       "reviews": 186,
       "price": 7.99,
       "endpoint": "fishing",
+      "rating": 4.5,
       "category": "fishing-bait",
       "description": "Balsa wood construction under an incredibly lifelike finish makes the Rapala® Shad Rap® SR09 Hard Bait the lure game fish find irresistible. Built tough with a hard-diving lip and sharp treble hooks, this legendary lure has the power to survive even the roughest fights. With its 9 cm length, this is a big-fish lure, ideal for trolling."
     },
@@ -657,6 +716,7 @@
       "reviews": 202,
       "price": 7.99,
       "endpoint": "fishing",
+      "rating": 4.5,
       "category": "fishing-bait",
       "description": "Balsa wood construction under an incredibly lifelike finish makes the Rapala® Shad Rap® SR05 Hard Bait the lure big fish find irresistible. Built tough with a hard-diving lip and sharp treble hooks, this legendary lure has the power to survive even the roughest fights. Cast or troll."
     },
@@ -668,6 +728,7 @@
       "reviews": 31,
       "price": 7.49,
       "endpoint": "fishing",
+      "rating": 4.5,
       "category": "fishing-bait",
       "description": "The BOOYAH® Poppin' Pad Crasher™ was created for those times and conditions that require additional surface disturbance. Everyone knows that on windy days and in thick slop, fish can be finicky and reluctant to commit. Or perhaps they've seen numerous other frogs that day. That's when the unique action of the Poppin' Pad Crasher truly shines. It's terrific for fishing the slop, but with a cupped mouth, it doubles as a popper/chugger in open water."
     },
@@ -679,6 +740,7 @@
       "reviews": 198,
       "price": 7.99,
       "endpoint": "fishing",
+      "rating": 4.5,
       "category": "fishing-bait",
       "description": "Balsa wood construction under an incredibly lifelike finish makes the Rapala® Shad Rap® SR07 Hard Bait the lure big fish find irresistible. Built tough with a hard-diving lip and sharp treble hooks, this legendary lure has the power to survive even the roughest fights. Cast or troll."
     },
@@ -690,6 +752,7 @@
       "reviews": 286,
       "price": 7.99,
       "endpoint": "fishing",
+      "rating": 4.5,
       "category": "fishing-bait",
       "description": "Balsa wood construction under an incredibly lifelike finish makes the Rapala® Shad Rap® SR05 Hard Bait the lure big fish find irresistible. Built tough with a hard-diving lip and sharp treble hooks, this legendary lure has the power to survive even the roughest fights. Cast or troll."
     },
@@ -701,6 +764,7 @@
       "reviews": 5,
       "price": 17.99,
       "endpoint": "fishing",
+      "rating": 4.5,
       "category": "fishing-bait",
       "description": "Give big bass what they crave most with our Bass Pro Shops® XPS® Swerve Glide Swimbait. The attention-grabbing size offers a wicked imitation of favorite forage. The wide side-to-side action draws in predators from long range and like a feisty fleeing baitfish, this swimbait swerves 180° to initiate instinctual strikes. Fish them using a slow, steady retrieve or speed things up with a fast chop without the bait rolling over. Bass Pro Shops XPS Swerve Glide Swimbait fills livewells at shallow depths or worked in deep water, slow sinking at 2' per second. Each swimbait comes rigged with sticky sharp treble hooks featuring a black nickel finish to resist corrosion. Choose from a selection of premium colors to best match the season's hatch in your local waters."
     },
@@ -712,6 +776,7 @@
       "reviews": 208,
       "price": 7.69,
       "endpoint": "fishing",
+      "rating": 4.5,
       "category": "fishing-bait",
       "description": "Tested and proven on California lunkers, the Yamamoto Baits Senko has become a mainstay for bass throughout the United States. The Senko is salt impregnated, has a healthy profile, casts like a bullet, and features a unique smooth-and-even horizontal fall when fished weightless or wacky style. Yamamoto Senkos are not magic, but they're pretty darn close."
     },
@@ -723,6 +788,7 @@
       "reviews": 18,
       "price": 14.99,
       "endpoint": "fishing",
+      "rating": 4.5,
       "category": "fishing-bait",
       "description": "Hank Cherry knows what makes a great jerkbait. It won him the title of Bassmaster Classic® champion. Now you can add Hank's tournament-winning expertise to your tackle bag with the Berkley® Stunna Jerkbait. Designed for lifelike action, casting distance, and durability, this fish catcher has a single tungsten weight transfer. Bring the Stunna Jerkbait to life with a jerk imparting maximum darting action and effortless 180° head turns. A seductive slow sink on the pause triggers strikes from lethargic fish."
     },
@@ -734,6 +800,7 @@
       "reviews": 3,
       "price": 14.99,
       "endpoint": "fishing",
+      "rating": 4.5,
       "category": "fishing-bait",
       "description": "Maximize your trout catch with the Berkley PowerBait® Trout Bait Assortment. This handy collection of the 4 best-selling Trout Bait colors allows you to give the trout exactly what they want, every time you hit the water. This is the same moldable, easy-to-use, biodegradable trout bait used by anglers across the country; its original floating formula enhances dispersion of scent and flavor to bring in distant trout. 92% biodegradable, 8% non-degradable microscopic spheres, formed from natural silica. Assortment includes full-size 1.8-oz. jars: one each Chartreuse, Fluorescent Orange, Rainbow, and Yellow. 4-Pack."
     },
@@ -745,6 +812,7 @@
       "reviews": 5,
       "price": 3.29,
       "endpoint": "fishing",
+      "rating": 4.5,
       "category": "fishing-bait",
       "description": "Anyone who wants to catch true slab crappie should give the Strike King® Mr. Crappie® Scizzor Shad a try. This pro-style softbait features a larger body size that appeals to fish looking for a substantial meal, and its unique profile produces an irresistible quivering action that big fish simply can't resist. Designed by pro angler Wally Marshall, Mr. Crappie himself, the Scizzor Shad proves that the 'big bait – big fish' approach really works. Great in heavy cover as well as open water. 10-pack."
     },
@@ -756,6 +824,7 @@
       "reviews": 30,
       "price": 9.99,
       "endpoint": "fishing",
+      "rating": 4.5,
       "category": "fishing-bait",
       "description": "Constructed of premium balsa wood, the Rapala® Ott's Garage Series Slim Crankbait boasts wobble and side-to-side action for realistic movement, attracting large predators for deep-set bites. The silent, flat sided body, coupled with VMC® Black Nickel 1X Treble hooks, ensure your target catch approaches the bait with confidence for hard, fast strikes, resulting in a deep set."
     },
@@ -767,6 +836,7 @@
       "reviews": 33,
       "price": 7.99,
       "endpoint": "fishing",
+      "rating": 4.5,
       "category": "fishing-bait",
       "description": "The Rapala® DT® (Dives-To) Series of Ike's Custom Ink Crankbaits uses the same time-tested design as the original DT lures, but in custom finishes designed by Rapala pro Michael 'Ike' Iaconelli. Use these incredible lures to target structure at pre-determined depths. Constructed of select balsa wood with an internal weight, a tapered body and thin tail, these babies dive fast and stay in the strike zone longer than ordinary crankbaits."
     },
@@ -778,6 +848,7 @@
       "reviews": 294,
       "price": 3.49,
       "endpoint": "fishing",
+      "rating": 2.5,
       "category": "fishing-bait",
       "description": "Offering the action of a crankbait, the profile of a jig and the flash of a spinnerbait, The Z-Man® Original ChatterBait® will have a profound impact on the way you fish. Designed to swim in an erratic motion that mimics wounded prey, the Original ChatterBait features a unique hex-shaped ChatterBlade® that pivots violently back and forth on the jig eyelet, producing enough vibration to let you feel every pulse. The ChatterBlade also serves as a weedguard to keep the hook from snagging on weeds or brush. The Original ChatterBait's EZ Skirt® creates an enticing, undulating action to provoke strikes. Perfect for muddy, stained water, the straight-tracking ChatterBait won't hydroplane on a fast retrieve and its depth is easily regulated."
     },
@@ -789,6 +860,7 @@
       "reviews": 138,
       "price": 3.99,
       "endpoint": "fishing",
+      "rating": 2.5,
       "category": "fishing-bait",
       "description": "The Z-Man® Finesse TRD™ (The Real Deal) offers the ideal finesse profile in a ready-to-fish package, eliminating the need to cut up ElaZtech® baits in an effort to craft the perfect finesse baits. Z-Man Finesse TRD is designed to be paired with Z-Man Finesse ShroomZ™ jigheads for the 'Ned Rig' style of Midwest finesse fishing, a technique growing in popularity among recreational and tournament anglers nationwide."
     },
@@ -800,6 +872,7 @@
       "reviews": 14,
       "price": 6.29,
       "endpoint": "fishing",
+      "rating": 2.5,
       "category": "fishing-bait",
       "description": "The tournament-proven Strike King® Red Eyed Shad is, according to the mighty KVD, 'one deadly lipless crankbait.' Designed by the Strike King Pro Staff, the Red Eyed Shad produces incredible action with its unique shad-style body, pro-chosen paint schemes, red 3D eyes, and attention-getting free-floating rattles. Proven to entice quality bass from afar, the Red Eyed Shad also delivers unbeatable action on the fall. Rigged with premium VMC® Vanadium Cone Cut hooks."
     },
@@ -811,6 +884,7 @@
       "reviews": 41,
       "price": 5.99,
       "endpoint": "fishing",
+      "rating": 2.5,
       "category": "fishing-bait",
       "description": "The Strike King® Rage Tail™ Twin Tail Menace Grub is a soft plastic double-tail grub with an attitude! Bass are helpless to resist its crazy tail action, even at slow fall or retrieve speeds. Use the Rage Twin Tail Menace Grub as a jig trailer, on a jighead in traditional grub fashion, or on a Texas or Carolina rig. In fact, the Menace can take the place of several other bass baits."
     },
@@ -822,6 +896,7 @@
       "reviews": 10,
       "price": 10.99,
       "endpoint": "fishing",
+      "rating": 2.5,
       "category": "fishing-bait",
       "description": "Factory tuned and ready to swim, the LIVETARGET® Sunfish Swimbait gets trophy bass and other predators to commit with abandon. It's the ultimate soft-plastic hatch-match for this important forage species, with true-to-life body detail and a high-action anatomical tail combining to create an irresistible profile. Perfectly balanced right out of the box, with a built-in oscillator for species-specific swimming action, the LIVETARGET Sunfish has a medium-slow sink rate that allows you to fish any depth. Its upright dorsal fin shields the stout extra-wide gap hook, helping to prevent snagging in weedy areas. Comes with an accessory pin for customizing your presentation with additional hooks, blades, or weights (not included)."
     },
@@ -833,6 +908,7 @@
       "reviews": 115,
       "price": 5.19,
       "endpoint": "fishing",
+      "rating": 2.5,
       "category": "fishing-bait",
       "description": "The Luhr Jensen® Krocodile® Spoon is a classic multi-species lure that is perfect for any fish on the lookout for a flashy meal. The Krocodile Spoon's narrow shape and heavyweight design create a bold, fish-attracting combination of thump and flash. Stamped and formed from solid brass, then buffed and plated with corrosion-resistant chrome, this deadly spoon is suitable for both fresh- and saltwater use. Sizes 1/6 oz. through 5/8 oz. are rigged with split rings, swivel, a Red magic flipper tail, and an extra siwash hook in the package. Sizes 3/4 oz. and larger are rigged with welded rings, swivel, and a treble hook only."
     },
@@ -844,6 +920,7 @@
       "reviews": 0,
       "price": 6.99,
       "endpoint": "fishing",
+      "rating": 2.5,
       "category": "fishing-bait",
       "description": "The biggest baits don't always bring the biggest bites. Strike King® Rage Scounbug proves this point time and again delivering heavy fish hauls as the runt of the Rage Tail lineup. What this compact crawfish bait lacks in size it makes up for in spunk with an unmistakable life-like motion. 2 Rage Flange pincers wiggle as they swim, combining with the 6 legs to come alive underwater. No matter how you fish it, the bite-sized Rage Scounbug comes through with big-time results."
     },
@@ -855,6 +932,7 @@
       "reviews": 9,
       "price": 3.49,
       "endpoint": "fishing",
+      "rating": 2.5,
       "category": "fishing-bait",
       "description": "Our Cabela's® Fisherman Series™ Game Fish Hammered Spoon can be used to catch everything from the most finicky panfish to king salmon. Great flash, tempting wobble!"
     },
@@ -866,6 +944,7 @@
       "reviews": 1,
       "price": 7.69,
       "endpoint": "fishing",
+      "rating": 2.5,
       "category": "fishing-bait",
       "description": "Optimized to produce tons of vibration, the Terminator Pro Series Tandem Spinnerbait elicits big strikes from predators! High-grade 17-7 stainless steel construction delivers exceptional strength, while colors and blade combinations inspired by the pros make this Terminator spinner a must-have for your tackle box! A custom hand-tied skirt adds enticing action, plus a large 3D holographic eye provides both lifelike appeal as well as a big target for fish to hammer! A keeper ensures your trailer stays put, and a premium VMC® hook sinks home quickly and easily. The Terminator Pro Series Tandem Spinnerbait uses a premium ball-bearing swivel."
     },
@@ -877,6 +956,7 @@
       "reviews": 101,
       "price": 4.99,
       "endpoint": "fishing",
+      "rating": 2.5,
       "category": "fishing-bait",
       "description": "Berkley®'s Gulp!® Earthworm is the skinny little bait with big fish potential. Lying on the bottom or finessed through cover, Berkley Gulp! Earthworms present a tempting treat no passing trout, bass, or walleye can resist! Berkley's Gulp! baits are a substantial improvement over plastic bait technology. To attract fish and get them to feed, you have to appeal to their senses of smell and taste, technically known as chemoreceptors. Berkley has effectively bridged the gap between live and artificial baits with the Gulp! baits. Gulp! baits are very similar in texture and chemical potency to live bait, but have all the shape, action, and color advantages of soft plastics. Gulp! actually releases 400 times times faster than equivalent plastic baits with a scent trail so intense, fish sense it from much farther away. And it's 100% biodegradable!"
     },
@@ -888,6 +968,7 @@
       "reviews": 61,
       "price": 4.99,
       "endpoint": "fishing",
+      "rating": 2.5,
       "category": "fishing-bait",
       "description": "The Cabela's® Fisherman Series™ Go-To Swim Minnow faithfully imitates shad and other baitfish and works as a swimbait, a jig or spinnerbait trailer, or even on an umbrella rig. Boot tail enhances vibration and creates realistic swimming action. Made in USA."
     },
@@ -899,6 +980,7 @@
       "reviews": 0,
       "price": 15.99,
       "endpoint": "fishing",
+      "rating": 2.5,
       "category": "fishing-bait",
       "description": "When you need to get down in the water column without reducing your trolling speed, our Offshore Angler™ Heavy Bullet Head Trolling Lure is the answer. Put it down in the center of your spread, behind a large trolling lead rigged with cable, to pull the billfish, wahoo, dolphin, and tuna that aren't keying on surface activity. This Offshore Angler skirted lure achieves its optimum swimming action when trolled at 6-10 knots and is a great choice for diversifying your presentation! Best rigged with an 8/0 or 9/0 hookset."
     }
@@ -2429,6 +2511,7 @@
       "title": "Savage Arms AXIS II XP TrueTimber VSX Bolt-Action Rifle with Threaded Barrel",
       "reviews": 6,
       "endpoint": "shooting",
+      "rating": 3,
       "price": 499.99
     },
     {
@@ -2439,6 +2522,7 @@
       "title": "Browning X-Bolt Hell's Canyon Max Long Range Bolt-Action Centerfire Rifle",
       "reviews": 11,
       "endpoint": "shooting",
+      "rating": 3,
       "price": 1299.99
     },
     {
@@ -2449,6 +2533,7 @@
       "title": "Christensen Arms Modern Precision Bolt-Action Rifle",
       "reviews": 7,
       "endpoint": "shooting",
+      "rating": 3,
       "price": 2299.99
     },
     {
@@ -2459,6 +2544,7 @@
       "title": "Mossberg Patriot Predator Bolt-Action Rifle with Cerakote Finish",
       "reviews": 5,
       "endpoint": "shooting",
+      "rating": 3,
       "price": 549.99
     },
     {
@@ -2469,6 +2555,7 @@
       "title": "Ruger Precision Gen 3 Bolt-Action Rifle",
       "reviews": 15,
       "endpoint": "shooting",
+      "rating": 3,
       "price": 1549.99
     },
     {
@@ -2479,6 +2566,7 @@
       "title": "Ruger American Rifle Predator Bolt-Action Rifle with AI-Style Magazine",
       "reviews": 39,
       "endpoint": "shooting",
+      "rating": 3,
       "price": 529.99
     },
     {
@@ -2489,6 +2577,7 @@
       "title": "Ruger American Rifle Predator Bolt-Action Rifle with AR-Style Magazine",
       "reviews": 4,
       "endpoint": "shooting",
+      "rating": 3,
       "price": 529.99
     },
     {
@@ -2499,6 +2588,7 @@
       "title": "Savage Axis Compact Bolt-Action Rifle",
       "reviews": 0,
       "endpoint": "shooting",
+      "rating": 3,
       "price": 369.99
     },
     {
@@ -2509,6 +2599,7 @@
       "title": "Winchester XPR Hunter Bolt-Action Rifle with Scope in TrueTimber Strata",
       "reviews": 57,
       "endpoint": "shooting",
+      "rating": 3,
       "price": 849.99
     },
     {
@@ -2519,6 +2610,7 @@
       "title": "Savage Arms Axis XP Compact Bolt-Action Rifle with Scope in Muddy Girl Camo",
       "reviews": 0,
       "endpoint": "shooting",
+      "rating": 3,
       "price": 459.99
     },
     {
@@ -2529,6 +2621,7 @@
       "title": "Browning AB3 Micro Stalker Bolt-Action Rifle",
       "reviews": 0,
       "endpoint": "shooting",
+      "rating": 4,
       "price": 599.99
     },
     {
@@ -2539,6 +2632,7 @@
       "title": "Ruger American Rifle Bolt-Action Rifle with Vortex Crossfire II 3-9x40 Scope",
       "reviews": 20,
       "endpoint": "shooting",
+      "rating": 4,
       "price": 609.99
     },
     {
@@ -2549,6 +2643,7 @@
       "title": "Browning X-Bolt Pro Bolt-Action Rifle with Carbon Fiber Stock",
       "reviews": 2,
       "endpoint": "shooting",
+      "rating": 4,
       "price": 2029.99
     },
     {
@@ -2559,6 +2654,7 @@
       "title": "Browning AB3 Composite Stalker Bolt-Action Rifle with Leupold VX Freedom Scope Combo",
       "reviews": 29,
       "endpoint": "shooting",
+      "rating": 4,
       "price": 899.99
     },
     {
@@ -2569,6 +2665,7 @@
       "title": "Savage 110 Ultralite Bolt-Action Centerfire Rifle",
       "reviews": 27,
       "endpoint": "shooting",
+      "rating": 4,
       "price": 1449.99
     },
     {
@@ -2579,6 +2676,7 @@
       "title": "Benelli LUPO Bolt-Action Rifle Display Model/Cosmetic Damage",
       "reviews": 17,
       "endpoint": "shooting",
+      "rating": 4,
       "price": 1499.99
     },
     {
@@ -2589,6 +2687,7 @@
       "title": "Ruger American Rifle Standard Bolt-Action Rifle",
       "reviews": 184,
       "endpoint": "shooting",
+      "rating": 4,
       "price": 489.99
     },
     {
@@ -2599,6 +2698,7 @@
       "title": "Savage Impulse Big Game Bolt-Action Rifle",
       "reviews": 2,
       "endpoint": "shooting",
+      "rating": 4,
       "price": 1399.99
     },
     {
@@ -2609,6 +2709,7 @@
       "title": "Savage Arms 110 Tactical Bolt-Action Centerfire Rifle",
       "reviews": 52,
       "endpoint": "shooting",
+      "rating": 4,
       "price": 859.99
     },
     {
@@ -2619,6 +2720,7 @@
       "title": "Browning X-Bolt Hell's Canyon Long Range McMillan Bolt-Action Rifle",
       "reviews": 4,
       "endpoint": "shooting",
+      "rating": 4,
       "price": 1999.99
     },
     {
@@ -2629,6 +2731,7 @@
       "title": "Tikka T3X Superlite Bolt-Action Rifle in TrueTimber VSX",
       "reviews": 32,
       "endpoint": "shooting",
+      "rating": 4,
       "price": 1049.99
     },
     {
@@ -2639,6 +2742,7 @@
       "title": "Savage AXIS II Precision Cerakote OD Green Bolt-Action Rifle",
       "reviews": 1,
       "endpoint": "shooting",
+      "rating": 4,
       "price": 1169.99
     },
     {
@@ -2649,6 +2753,7 @@
       "title": "Christensen Arms Traverse Bolt-Action Rifle",
       "reviews": 1,
       "endpoint": "shooting",
+      "rating": 4,
       "price": 2449.99
     },
     {
@@ -2659,6 +2764,7 @@
       "title": "Savage Arms 110 VSX Hunter XP Bolt-Action Rifle with Vortex Diamondback Scope Combo",
       "reviews": 14,
       "endpoint": "shooting",
+      "rating": 4,
       "price": 819.99
     },
     {
@@ -2669,6 +2775,7 @@
       "title": "Browning X-Bolt Max Long Range Bolt-Action Rifle",
       "reviews": 12,
       "endpoint": "shooting",
+      "rating": 4,
       "price": 1999.99
     },
     {
@@ -2679,6 +2786,7 @@
       "title": "Browning X-Bolt Hell's Canyon Speed Suppressor-Ready Bolt-Action Rifle",
       "reviews": 29,
       "endpoint": "shooting",
+      "rating": 4,
       "price": 1199.99
     },
     {
@@ -2689,6 +2797,7 @@
       "title": "Savage Axis XP Bolt-Action Rifle with Weaver 3-9x40 Scope",
       "reviews": 25,
       "endpoint": "shooting",
+      "rating": 4,
       "price": 419.99
     },
     {
@@ -2699,6 +2808,7 @@
       "title": "Bergara B-14 Wilderness HMR Bolt-Action Rifle",
       "reviews": 14,
       "endpoint": "shooting",
+      "rating": 4,
       "price": 1149.99
     },
     {
@@ -2709,6 +2819,7 @@
       "title": "Ruger American Go Wild Camo Bolt-Action Rifle",
       "reviews": 0,
       "endpoint": "shooting",
+      "rating": 4,
       "price": 629.99
     },
     {
@@ -2719,6 +2830,7 @@
       "title": "Ruger American Rifle Compact Bolt-Action Rifle",
       "reviews": 19,
       "endpoint": "shooting",
+      "rating": 4,
       "price": 469.99
     },
     {
@@ -2729,6 +2841,7 @@
       "title": "GLOCK G44 Compact Semi-Auto Pistol",
       "reviews": 36,
       "endpoint": "shooting",
+      "rating": 3.5,
       "price": 399.99
     },
     {
@@ -2739,6 +2852,7 @@
       "title": "Ruger Lite Rack LCP II .22 LR Semi-Auto Pistol",
       "reviews": 28,
       "endpoint": "shooting",
+      "rating": 3.5,
       "price": 369.99
     },
     {
@@ -2749,6 +2863,7 @@
       "title": "Sig Sauer P322 Semi-Auto Pistol with Manual Safety",
       "reviews": 69,
       "endpoint": "shooting",
+      "rating": 3.5,
       "price": 399.99
     },
     {
@@ -2759,6 +2874,7 @@
       "title": "Walther Colt Government 1911 A1 Semi-Auto Rimfire Pistol",
       "reviews": 5,
       "endpoint": "shooting",
+      "rating": 3.5,
       "price": 429.99
     },
     {
@@ -2769,6 +2885,7 @@
       "title": "American Tactical Inc. GSG Firefly Rimfire Semi-Auto Pistol with Threaded Barrel",
       "reviews": 1,
       "endpoint": "shooting",
+      "rating": 3.5,
       "price": 249.99
     },
     {
@@ -2778,6 +2895,7 @@
       "image": "https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2722763.json?$Prod_PLPThumb$",
       "title": "Ruger Wrangler Single-Action Rimfire Revolver with Black Cerakote Finish",
       "endpoint": "shooting",
+      "rating": 3.5,
       "price": 219.99
     },
     {
@@ -2788,6 +2906,7 @@
       "title": "Ruger Wrangler Single-Action Rimfire Revolver with Silver Cerakote Finish",
       "reviews": 53,
       "endpoint": "shooting",
+      "rating": 3.5,
       "price": 219.99
     },
     {
@@ -2798,6 +2917,7 @@
       "title": "American Tactical GSG 1911 Semi-Auto Pistol with Threaded Barrel",
       "reviews": 7,
       "endpoint": "shooting",
+      "rating": 3.5,
       "price": 369.99
     },
     {
@@ -2808,6 +2928,7 @@
       "title": "Beretta M9 22LR Rimfire Semi-Auto Pistol",
       "reviews": 32,
       "endpoint": "shooting",
+      "rating": 3.5,
       "price": 419.99
     },
     {
@@ -2818,6 +2939,7 @@
       "title": "Walther WMP Optics-Ready Semi-Auto Pistol",
       "reviews": 25,
       "endpoint": "shooting",
+      "rating": 3.5,
       "price": 499.99
     },
     {
@@ -2828,6 +2950,7 @@
       "title": "Heritage Rough Rider Single-Action Revolver",
       "reviews": 133,
       "endpoint": "shooting",
+      "rating": 4.5,
       "price": 149.99
     },
     {
@@ -2838,6 +2961,7 @@
       "title": "Smith & Wesson M&P 22 Compact Semi-Auto Pistol",
       "reviews": 58,
       "endpoint": "shooting",
+      "rating": 4.5,
       "price": 399.99
     },
     {
@@ -2848,6 +2972,7 @@
       "title": "Walther P22 Semi-Auto Rimfire Pistol",
       "reviews": 27,
       "endpoint": "shooting",
+      "rating": 4.5,
       "price": 329.99
     },
     {
@@ -2858,6 +2983,7 @@
       "title": "Ruger Wrangler Cowpoke Revolver with Cobalt Cerakote Finish",
       "reviews": 1,
       "endpoint": "shooting",
+      "rating": 4.5,
       "price": 269.99
     },
     {
@@ -2868,6 +2994,7 @@
       "title": "Heritage Rough Rider Single-Action Revolver with Stars and Stripes Grips",
       "reviews": 4,
       "endpoint": "shooting",
+      "rating": 4.5,
       "price": 159.99
     },
     {
@@ -2878,6 +3005,7 @@
       "title": "Taurus TX 22 Semi-Auto Rimfire Pistol",
       "reviews": 50,
       "endpoint": "shooting",
+      "rating": 4.5,
       "price": 309.99
     },
     {
@@ -2888,6 +3016,7 @@
       "title": "Sig Sauer P322 Semi-Auto Pistol with Romeo Zero Elite Optic and Manual Safety",
       "reviews": 7,
       "endpoint": "shooting",
+      "rating": 4.5,
       "price": 549.99
     },
     {
@@ -2898,6 +3027,7 @@
       "title": "Walther P22 Semi-Auto Rimfire Pistol",
       "reviews": 16,
       "endpoint": "shooting",
+      "rating": 4.5,
       "price": 329.99
     },
     {
@@ -2908,6 +3038,7 @@
       "title": "Heritage Rough Rider Revolver with Case-Hardened Frame and Cocobolo Grips",
       "reviews": 5,
       "endpoint": "shooting",
+      "rating": 4.5,
       "price": 149.99
     },
     {
@@ -2918,6 +3049,7 @@
       "title": "Volquartsen Mamba-X Semi-Auto Pistol with Optics Package",
       "reviews": 1,
       "endpoint": "shooting",
+      "rating": 4.5,
       "price": 469.99
     },
     {
@@ -2928,6 +3060,7 @@
       "title": "Walther Colt 1911A1 Rail Rimfire Semi-Auto Pistol",
       "reviews": 0,
       "endpoint": "shooting",
+      "rating": 4.5,
       "price": 519.99
     },
     {
@@ -2938,6 +3071,7 @@
       "title": "Browning Buckmark Semi-Auto Rimfire Pistol",
       "reviews": 2,
       "endpoint": "shooting",
+      "rating": 4.5,
       "price": 479.99
     },
     {
@@ -2948,6 +3082,7 @@
       "title": "Heritage Barkeep Single-Action Revolver with Scrolled Wood Grips",
       "reviews": 0,
       "endpoint": "shooting",
+      "rating": 4.5,
       "price": 179.99
     }
   ],
