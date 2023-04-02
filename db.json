@@ -5137,7 +5137,8 @@
           "id": 2
         }
       ],
-      "cart-total": 7105,
+      "cartTotal": 7105,
+      "totalItems": 2,
       "status": "Pending",
       "id": 1
     },
@@ -5184,7 +5185,8 @@
           "id": 4
         }
       ],
-      "cart-total": 4905,
+      "cartTotal": 4905,
+      "totalItems": 3,
       "status": "Pending",
       "id": 2
     }
